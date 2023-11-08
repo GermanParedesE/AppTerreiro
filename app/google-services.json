@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317794214505",
+    "project_id": "appterreiro",
+    "storage_bucket": "appterreiro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317794214505:android:4c61f8115957e0a35fb8f8",
+        "android_client_info": {
+          "package_name": "com.example.appterreiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRFSTc2yhF9hXB3M0lB9W47GEuIydoHhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
